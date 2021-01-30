@@ -1,0 +1,29 @@
+﻿Name,Start_Date,Day,Weight,Treatment,Skin_Type_During_The_Day,Skin_Type_Throughout_The_Day,Skin_Type_Conclusion,Whitehead,Blackhead,Acne,Water_ Intake,Did_Acne_Clear,New_Acne_Formed,Steps_Taken,Screentime,Weather,Humidity_6am_to_12pm,Humidity_12pm_to_6pm,Humidity_6pm_to_12am,Stress_Level
+Lawrence,Thursday 1/14/2021,1,N/A,Water,Normal,Dry,Dry,No,Yes,Yes,48 oz,No,No,N/A,N/A,Cloudy/Rainy,61%,47%,66%,10
+Zita,Thursday 1/14/2021,1,N/A,Water,Dry,Oily,Combination,No,Yes,Yes,48 oz,No,No,252,6h 39m,Cloudy/Rainy,61%,47%,66%,5
+Lawrence,Friday 1/15/2021,2,N/A,Water,Normal,Oily,Oily,No,Yes,Yes,60 oz,No,No,N/A,5h 23m,Cloudy/Rainy,86%,79%,88%,8
+Zita,Friday 1/15/2021,2,N/A,Water,Dry,Oily,Combination,No,Yes,Yes,60 oz,No,No,1162,7h 43m,Cloudy/Rainy,86%,79%,88%,5
+Lawrence,Saturday 1/16/2021,3,N/A,Water,Normal,Oily,Oily,Yes,Yes,Yes,72 oz,No,No,N/A,7h 53m,Cloudy,86%,72%,61%,9
+Zita,Saturday 1/16/2021,3,N/A,Water,Dry,Oily,Combination,No,Yes,Yes,72 oz,No,Yes,230,7h 46m,Cloudy,86%,72%,61%,3
+Lawrence,Sunday 1/17/2021,4,N/A,"Water, Inkey Cleanser",Normal,Oily,Oily,No,Yes,Yes,72 oz,No,No,N/A,6h 43m,Windy,54%,47%,50%,10
+Zita,Sunday 1/17/2021,4,N/A,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,165,4h 52m,Windy,54%,47%,50%,3
+Lawrence,Monday 1/18/2021,5,N/A,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,N/A,9h 5m,Cloudy/Rainy,60%,46%,61%,3
+Zita,Monday 1/18/2021,5,N/A,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,374,3h 45m,Cloudy/Rainy,60%,46%,61%,4
+Lawrence,Tuesday 1/19/2021,6,N/A,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,N/A,5h 32m,Cloudy/Rainy,55%,49%,52%,5
+Zita,Tuesday 1/19/2021,6,N/A,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,255,9h 16m,Cloudy/Rainy,55%,49%,52%,6
+Lawrence,Wednesday 1/20/2021,7,N/A,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,Yes,N/A,7h 31m,Sunny/Cloudy,72%,40%,42%,10
+Zita,Wednesday 1/20/2021,7,104.5 lbs,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,318,6h 10m,Sunny/Cloudy,72%,40%,42%,8
+Lawrence,Thursday 1/21/2021,8,142.1 lbs,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,241,5h 57m,Sunny,51%,44%,52%,5
+Zita,Thursday 1/21/2021,8,104.5 lbs,"Water, Inkey Cleanser",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,209,6h 9m,Sunny,51%,44%,52%,7
+Lawrence,Friday 1/22/2021,9,139.5 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,Yes,Yes,Yes,72 oz,No,No,1677,5h 57m,Cloudy,47%,38%,50%,3
+Zita,Friday 1/22/2021,9,104.6 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,260,6h 9m,Cloudy,47%,38%,50%,10
+Lawrence,Saturday 1/23/2021,10,140.1 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,Yes,Yes,Yes,72 oz,No,Yes,566,8h 52m,Sunny,38%,32%,42%,3
+Zita,Saturday 1/23/2021,10,104.9 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,Yes,Yes,Yes,72 oz,No,Yes,344,4h 8m,Sunny,38%,32%,42%,7
+Lawrence,Sunday 1/24/2021,11,140.6 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,Yes,Yes,Yes,72 oz,No,Yes,762,6h 47m,Sunny,40%,30%,39%,2
+Zita,Sunday 1/24/2021,11,105.6 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,No,300,4h 00m,Sunny,40%,30%,39%,6
+Lawrence,Monday 1/25/2021,12,142.2 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,Yes,Yes,Yes,72 oz,No,No,826,7h 30m,Sunny,47%,37%,44%,8
+Zita,Monday 1/25/2021,12,106.5 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,No,Yes,Yes,72 oz,No,Yes,2889,3h 46m,Sunny,47%,37%,44%,7
+Lawrence,Tuesday 1/26/2021,13,142.7 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Oily,Combination,Yes,Yes,Yes,72 oz,No,No,620,8h 4m,Snow/Rain,53%,83%,92%,8
+Zita,Tuesday 1/26/2021,13,105.5 lbs,"Water, Inkey Cleanser, Skin1004 Toner",Dry,Dry,Dry,Yes,Yes,Yes,72 oz,No,Yes,232,4h 30m,Snow/Rain,53%,83%,92%,2
+Lawrence,Wednesday 1/27/2021,14,142.4 lbs,"Water, Inkey Cleanser, Skin1004 Toner, Iunik Serum, BHA mask",Oily,Oily,Oily,Yes,Yes,Yes,,No,Yes,,,Cloudy,,,,
+Zita,Wednesday 1/27/2021,14,104.2 lbs,"Water, Inkey Cleanser, Skin1004 Toner, Iunik Serum, BHA mask",Dry,Oily,Combination,Yes,Yes,Yes,,No,Yes,,,Cloudy,,,,
